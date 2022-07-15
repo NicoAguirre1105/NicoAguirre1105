@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nicof1105
+- 👋 Hi, I’m Nicolas Aguirre from Ecuador. I'm 20 years old.
+- :) I speak Spanish, English and Russian
 - 👀 I’m interested in learning web and mobile development. 
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React JS. Also, I'm studying Mathematics and Coputer Science at Saint Petersburg's State University (First Year)
 - 📫 How to reach me:
