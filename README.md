@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Nicolás Aguirre
 
-**Junior Programmer | Passionate about clean code and performance**
+**Junior Programmer**
 
 ---
 
